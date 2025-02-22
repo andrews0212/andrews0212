@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">Sobre mí 👨‍💻<br>¡Hola! Soy Andrews Dos Ramos, un desarrollador backend con experiencia en Java, MySQL y Python. También tengo conocimientos en Spring Boot y Android.<br><br>Recientemente, he empezado a trabajar con Flutter, y ya he desarrollado la app MyDailyList, una aplicación multiplataforma para la gestión de tareas usando SQLite.<br><br>Me apasiona la tecnología, el desarrollo de software y siempre estoy en busca de nuevos desafíos para mejorar mis habilidades.<br><br>📫 Puedes contactarme en: k4ts0v@protonmail.com</p>
+<p align="left">Sobre mí 👨‍💻<br>¡Hola! Soy Andrews Dos Ramos, un desarrollador backend con experiencia en Java, MySQL y Python. También tengo conocimientos en Spring Boot y Android.<br><br>Recientemente, he empezado a trabajar con Flutter, y ya he desarrollado la app MyDailyList, una aplicación multiplataforma para la gestión de tareas usando SQLite.<br><br>Me apasiona la tecnología, el desarrollo de software y siempre estoy en busca de nuevos desafíos para mejorar mis habilidades.<br><br>📫 Puedes contactarme en: andrewsdosramos@gmail.com</p>
 
 ###
 
