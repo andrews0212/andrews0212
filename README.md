@@ -9,10 +9,6 @@
 
 ###
 
-<img hreft="https://i.redd.it/1d11s820dgm91.gif"/>
-
-###
-
 <p align="left">Nombre: Andrews Dos Ramos<br><br>Ubicación: Madrid, España<br><br>Descripción: Soy un programador backend con experiencia en Java, MySQL y Python. También manejo tecnologías como Android y Spring Boot. Recientemente, he empezado en el mundo de Flutter y he desarrollado la app MyDailyList, que permite gestionar tareas en múltiples plataformas usando SQLite.</p>
 
 ###
