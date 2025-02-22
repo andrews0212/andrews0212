@@ -9,7 +9,11 @@
 
 ###
 
-<p align="left">Nombre: Andrews Dos Ramos<br>Ubicación: Madrid, España<br>Descripción: Soy un programador backend con experiencia en Java, MySQL y Python. También manejo tecnologías como Android y Spring Boot. Recientemente, he empezado en el mundo de Flutter y he desarrollado la app MyDailyList, que permite gestionar tareas en múltiples plataformas usando SQLite.</p>
+<img align="left" height="170" src="https://private-user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDAyNTI0NzAsIm5iZiI6MTc0MDI1MjE3MCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjQzNzEtOWQwZmQwYzQtNWM3Zi00MTIyLWI4ODQtNjRhMWUxNjg1ZDJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjIyVDE5MjI1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE4ODYzMGJkNjE5MzI0MjcwZWU0ZmY2MzEwNGY4Y2UxZjAzNGYxZmJmNzYxM2NhNTc0NDkxMGYwNTA0ZDUxYTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.FIqyxKJyXmiV7HhQ4uB8lRcQ7uIV4yiJzThgshODanI"  />
+
+###
+
+<p align="left">Nombre: Andrews Dos Ramos<br><br>Ubicación: Madrid, España<br><br>Descripción: Soy un programador backend con experiencia en Java, MySQL y Python. También manejo tecnologías como Android y Spring Boot. Recientemente, he empezado en el mundo de Flutter y he desarrollado la app MyDailyList, que permite gestionar tareas en múltiples plataformas usando SQLite.</p>
 
 ###
 
