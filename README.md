@@ -1,16 +1,16 @@
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrews0212&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=andrews0212&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrews0212&radius=16&theme=react&area=true&order=5" height="" alt="activity-graph graph"  />
+</div>
+
+###
+
 <h1 align="left">Hola ¿Que tal?</h1>
 
 ###
 
 <p align="left">Nombre: Andrews Dos Ramos<br>Ubicación: Madrid, España<br>Descripción: Soy un programador backend con experiencia en Java, MySQL y Python. También manejo tecnologías como Android y Spring Boot. Recientemente, he empezado en el mundo de Flutter y he desarrollado la app MyDailyList, que permite gestionar tareas en múltiples plataformas usando SQLite.</p>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrews0212&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=andrews0212&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrews0212&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
 
 ###
 
