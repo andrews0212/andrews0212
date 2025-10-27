@@ -20,11 +20,13 @@
 
 ###
 
+
 <h2 align="left">Lenguajes</h2>
 
 ###
 
 <div align="left">
+  <img src="./microsoft-certified-azure-data-fundamentals (1).png" height="40" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
