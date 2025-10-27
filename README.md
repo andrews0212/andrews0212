@@ -21,7 +21,7 @@
 ###
 
 <h2 align="left">Certificados</h2>
- <img src="./microsoft-certified-azure-data-fundamentals (1).png" height="60" alt="java logo"  />
+ <img src="./microsoft-certified-azure-data-fundamentals (1).png" height="100" alt="java logo"  />
 
 
 <h2 align="left">Lenguajes</h2>
